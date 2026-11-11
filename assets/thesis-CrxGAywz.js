@@ -1,0 +1,1 @@
+import{c as o,j as t,r as s}from"./styles-DpbbYxCR.js";import{P as e}from"./Project-lBd9f4Qn.js";import"./Footer-CZfgWTHg.js";const r=document.getElementById("root");if(!r)throw new Error('thesis.html is missing <div id="root">');o.createRoot(r).render(t.jsx(s.StrictMode,{children:t.jsx(e,{slug:"thesis"})}));

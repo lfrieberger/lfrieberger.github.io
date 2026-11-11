@@ -1,0 +1,1 @@
+import{c as o,j as t,r as e}from"./styles-DpbbYxCR.js";import{P as s}from"./Project-lBd9f4Qn.js";import"./Footer-CZfgWTHg.js";const r=document.getElementById("root");if(!r)throw new Error('sentiment.html is missing <div id="root">');o.createRoot(r).render(t.jsx(e.StrictMode,{children:t.jsx(s,{slug:"sentiment"})}));

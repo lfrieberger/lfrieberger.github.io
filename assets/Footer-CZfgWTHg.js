@@ -1,0 +1,1 @@
+import{j as s,C as o}from"./styles-DpbbYxCR.js";function e(){return s.jsxs("footer",{className:"footer",children:[s.jsx("div",{className:"rule"}),s.jsx("div",{className:"footer__row",children:s.jsx(o,{})})]})}export{e as F};
