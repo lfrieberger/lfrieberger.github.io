@@ -1,0 +1,1 @@
+import{c as o,j as r,r as e}from"./styles-D1bQKtf4.js";import{P as i}from"./Project-B-Z8awly.js";import"./Footer-DgCGf6yd.js";const t=document.getElementById("root");if(!t)throw new Error('cycling.html is missing <div id="root">');o.createRoot(t).render(r.jsx(e.StrictMode,{children:r.jsx(i,{slug:"cycling"})}));
